@@ -1,0 +1,8 @@
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\bin\Debug\AccountTest.exe
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\bin\Debug\AccountTest.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\bin\Debug\BankingModel.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\bin\Debug\BankingModel.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\obj\Debug\AccountTest.exe
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\AccountTest\obj\Debug\AccountTest.pdb

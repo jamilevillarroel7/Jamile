@@ -1,0 +1,5 @@
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\BankingModel\bin\Debug\BankingModel.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\BankingModel\bin\Debug\BankingModel.pdb
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\BankingModel\obj\Debug\BankingModel.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\BankingModel\obj\Debug\BankingModel.dll
+C:\Users\jamil\Documents\Visual Studio 2017\Projects\Jamile\BankingSystem\BankingModel\obj\Debug\BankingModel.pdb
